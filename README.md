@@ -1,6 +1,8 @@
 # molecity_guidebook
 Guidebook for Mole City
 
+[Mole City Guidebook](https://mole.city/gitbook/)
+
 ## Mole City Official Channels
 
 > Website : [https://mole.city/](https://mole.city/)  
